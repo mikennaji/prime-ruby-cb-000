@@ -14,5 +14,5 @@ def prime?(number1)
   if not_some===false
     return false
  end
-  
+
 end
